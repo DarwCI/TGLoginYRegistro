@@ -699,14 +699,14 @@
                 <div class="span-icon"><span><i class="fab fa-youtube"></i></span></div>
                 <h6>Youtube</h6>
                 <h1 style="font-size: 30px"><br><br><br>AHORA ES EL MOMENTO DE ACTUAR POR LA VIDA SILVESTRE. LA CONSERVACIÓN ES CRÍTICA; LAS ESPECIES ESTÁN AMENAZADAS. JUNTOS PODEMOS HACER UNA GRAN DIFERENCIA. ACTÚE HOY Y ÚNASE A NOSOTROS PARA PREVENIR LA EXTINCIÓN .</h1>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis nesciunt sed mollitia ea ut itaque.</p>
+                <p></p>
              </div>
             
         </div>
     </div>
 </section>
 
-
+<p>fkjahfknajkfgnsjk</p>
 
 
     <div id="redes">
