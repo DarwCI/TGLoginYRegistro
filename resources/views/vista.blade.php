@@ -40,7 +40,7 @@
     <header id="header">
 
      <!-- Navegation Menu -->
-     <nav class="menu" style="position: fixed;">
+     <nav class="menu" style="">
          <div class="logobox">
              <h1 class="logo"><a href="#">
                 <i class="fas fa-tree"></i>
@@ -58,12 +58,7 @@
                  <li><a href="#33">Animales</a></li>
                  <li><a href="#44">Videos</a></li>
                  <li><a href="{{ route('login') }}">Iniciar Sesion</a></li>
-                 
-                
-
-
-
-             </ul>
+               </ul>
          </div>
      </nav>
 
@@ -122,23 +117,21 @@
             </div>
         </div>
     </section>
-    <br>
-    <br>
+    
     <div id="33">
-<br><br>
+        
     </div>
     <!-- Gallery -->
         <div class="animal-icon">
-            <i class="fas fa-paw"></i><br><br>            
+            <i class="fas fa-paw"></i>            
         </div>
-       
 
         <div class="gallery-content">
-            <div class="img-card"><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/01/5d/42/photo0jpg.jpg?w=1200&h=-1&s=1" alt="animal"></div>
-            <div class="img-card"><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7f/6c/34/the-pumas-huge-cats.jpg?w=800&h=-1&s=1" alt="animal"></div>
-            <div class="img-card"><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6a/5c/ac/photo0jpg.jpg?w=1100&h=-1&s=1" alt="animal"></div>
-            <div class="img-card"><img src=https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6a/5c/af/photo3jpg.jpg?w=1100&h=-1&s=1" alt="animal"></div>
-            <div class="img-card"><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6a/5c/b2/photo6jpg.jpg?w=1100&h=-1&s=1" alt="animal"></div>
+            <div class="img-card"><img src="img/img-1.jpg" alt="animal"></div>
+            <div class="img-card"><img src="img/img-2.jpg" alt="animal"></div>
+            <div class="img-card"><img src="img/img-3.jpg" alt="animal"></div>
+            <div class="img-card"><img src="img/img-4.jpg" alt="animal"></div>
+            <div class="img-card"><img src="img/img-5.jpg" alt="animal"></div>
             <div class="img-card"><img src="img/img-6.jpg" alt="animal"></div>
             <div class="img-card"><img src="img/img-7.jpg" alt="animal"></div>
             <div class="img-card"><img src="img/img-8.jpg" alt="animal"></div>
